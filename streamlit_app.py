@@ -109,7 +109,7 @@ with tab2:
                 # Create user proxy (initiator)
                 user_proxy = autogen.UserProxyAgent(
                     name="Admin",
-                    system_message="A human admin. Interact with the group to oversee the conversation.",
+                    system_message="A human admin. Interact with the group to oversee the conversation. You just initiate the chat and never contribute in the chat later.",
                     human_input_mode="NEVER",
                     code_execution_config=False,
                 )
