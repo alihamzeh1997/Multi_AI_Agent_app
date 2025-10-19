@@ -1,5 +1,5 @@
 streamlit
 pandas
-autogen-agentchat~=0.2
+pyautogen
 openai
 requests
