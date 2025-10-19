@@ -1,4 +1,4 @@
-streamlitstreamlit
+streamlit
 pandas
 autogen-agentchat~=0.2
 openai
